@@ -1,0 +1,73 @@
+ @import "tailwindcss";
+
+
+/*
+body{
+  margin: 0;
+  padding: 0;
+
+}
+.header{
+background-color: orange;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+.span{
+  font-size: 25px;
+    font-weight: bold;
+}
+.header2{
+  display: flex;
+  gap: 1rem;
+}
+.header2 nav{
+  display: flex;
+  gap: 1rem;
+}
+nav a{
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+
+}
+.btn{
+  
+  display: flex;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.box {
+  border: 1px solid red;
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius:8px;
+}
+
+.box-container {
+  display: flex;
+  gap: 1rem;
+} */
+.color{
+  color: red;
+}
+.color2 {
+  color: transparent;
+}
+
+.icon {
+  font-size: 40px;
+  color: black;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.icon.red {
+  color: red;
+
+}

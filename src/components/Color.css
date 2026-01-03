@@ -1,0 +1,53 @@
+.box{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.color-box{
+    width: 70%;
+        height: 60vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+}
+.color{
+    width: 25%;
+    height: 25%;
+    background-color: aqua;
+    margin: 5px;
+    padding: 30px;
+    text-align: center;
+    
+}
+.color-1 {
+    width: 25%;
+    height: 25%;
+    background-color: rgb(7, 219, 71);
+    margin: 5px;
+    padding: 30px;
+    text-align: center;
+
+}
+.color-2 {
+    width: 25%;
+    height: 25%;
+    background-color: rgb(42, 7, 219);
+    margin: 5px;
+    padding: 30px;
+    text-align: center;
+
+}
+.color-3 {
+    width: 25%;
+    height: 25%;
+    background-color: rgb(242, 71, 154);
+    margin: 5px;
+    padding: 30px;
+    text-align: center;
+
+}
